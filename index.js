@@ -22,3 +22,5 @@ function reset() {
   console.log("Rest At " + count);
   count = 0;
 }
+
+console.log("Let's count people on the subway!");
