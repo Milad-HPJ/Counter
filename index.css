@@ -1,0 +1,38 @@
+body {
+  font-family: cursive;
+  font-size: larger;
+}
+
+button {
+  margin: 10px 0 10px 0;
+  width: 150px;
+  border-radius: 10px;
+  font-family: fantasy;
+  font-size: larger;
+  color: whitesmoke;
+}
+
+#container {
+  background-color: rgba(7, 29, 69, 0.778);
+  margin: 0;
+  text-align: center;
+}
+
+#increment-btn {
+  border-radius: 10px;
+  display: block;
+  margin: auto;
+  background-color: red;
+}
+
+#save-btn {
+  background-color: green;
+}
+
+#save-el {
+  font-size: medium;
+}
+
+#reset-btn {
+  background-color: rgba(255, 255, 0, 0.81);
+}
